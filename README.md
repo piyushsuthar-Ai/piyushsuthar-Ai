@@ -1,89 +1,93 @@
 
 <!--
-  PROFILE README — INDIA FUTURISTIC
-  Replace placeholder project links only when you have real public repositories.
+  OBSIDIAN ELITE
+  GitHub Profile README — PiyushSuthar-AI
+  Palette: Obsidian Black · Platinum Silver · Muted Champagne
 -->
 
 <div align="center">
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07131F,45:102B35,75:164E4A,100:FF9933&text=PIYUSH%20SUTHAR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=PREMIUM%203D%20WEB%20DEVELOPER&descSize=15&descAlignY=57&descColor=E8F7F5&animation=fadeIn" width="100%" alt="Piyush Suthar — India Futuristic profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,45:171717,75:292929,100:050505&fontColor=F5F5F5&fontSize=47&fontAlignY=38&desc=AI%20%2F%20WEB%20DEVELOPMENT%20%2F%20DIGITAL%20CRAFT&descAlignY=58&descSize=13&descColor=B9B9B9&animation=fadeIn" alt="Obsidian Elite — Piyush Suthar" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=900&color=36E0C0&center=true&vCenter=true&width=650&lines=Building+the+web+in+three+dimensions.;Design+meets+code.;Turning+ideas+into+interactive+experiences.;Crafting+interfaces+with+purpose." alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=C8C8C8&center=true&vCenter=true&width=650&lines=AI+Developer+%7C+Website+Builder;Designing+digital+experiences+with+purpose.;From+ideas+to+working+products.;Build.+Test.+Refine." alt="Animated introduction" />
 
 <br/><br/>
 
 <a href="https://github.com/PiyushSuthar-AI?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-181818?style=for-the-badge&logo=github&logoColor=E5E5E5&labelColor=080808" alt="Explore projects" />
 </a>
-<a href="https://github.com/PiyushSuthar-AI?tab=followers">
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-18C9A7?style=for-the-badge&logo=github&logoColor=07131F" alt="GitHub profile" />
+&nbsp;
+<a href="https://github.com/PiyushSuthar-AI">
+  <img src="https://img.shields.io/badge/PROFILE-181818?style=for-the-badge&logo=github&logoColor=C8C8C8&labelColor=080808" alt="GitHub profile" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CREATIVE-CODING-101820?style=flat-square&labelColor=101820&color=FF9933" alt="Creative coding" />
-<img src="https://img.shields.io/badge/3D-EXPERIENCES-101820?style=flat-square&labelColor=101820&color=FFFFFF" alt="3D experiences" />
-<img src="https://img.shields.io/badge/INDIA-BUILT%20WITH%20VISION-101820?style=flat-square&labelColor=101820&color=18C9A7" alt="India built with vision" />
+<img src="https://img.shields.io/badge/01-THINK-111111?style=flat-square&labelColor=080808&color=777777" alt="Think" />
+<img src="https://img.shields.io/badge/02-BUILD-111111?style=flat-square&labelColor=080808&color=999999" alt="Build" />
+<img src="https://img.shields.io/badge/03-REFINE-111111?style=flat-square&labelColor=080808&color=BDBDBD" alt="Refine" />
 
 </div>
 
 ---
 
-## `01 / THE VISION`
+## 01 — PROFILE
 
-<img align="right" width="180" src="https://skillicons.dev/icons?i=html,css,js,github&perline=2" alt="HTML, CSS, JavaScript and GitHub icons" />
+<img align="right" width="145" src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark&perline=2" alt="Web development and GitHub icons" />
 
-### Hey, I'm Piyush.
+### Piyush Suthar
 
-I’m interested in creating **premium digital experiences** that bring together modern web design, immersive 3D visuals, thoughtful interactions, and clean user interfaces.
+**AI Developer · Website Builder**
 
-I see a website as more than a collection of pages. It is an experience — from the first impression to the smallest interaction.
+I enjoy turning ideas and requirements into digital products — from websites and interactive interfaces to custom software.
 
-- ◈ Building toward immersive, 3D-inspired web experiences
-- ◈ Exploring motion, visual depth, and modern interface design
-- ◈ Focused on responsive layouts and usable experiences
-- ◈ Interested in turning ideas and requirements into working products
+My approach combines visual design, practical development, testing, and continuous refinement. I'm also interested in exploring how AI and machine learning can contribute to useful applications.
+
+- Building websites and digital experiences
+- Developing solutions around specific requirements
+- Testing, debugging, and improving implementations
+- Exploring AI, machine learning, and modern web technologies
 
 <br clear="right"/>
 
 ---
 
-## `02 / THE DESIGN PHILOSOPHY`
+## 02 — THE PHILOSOPHY
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Depth
+### ◇ Visual clarity
 
-Layered compositions, atmospheric backgrounds, subtle glow, and dimensional visual elements.
+Thoughtful layouts, considered typography, consistent spacing, and a strong visual identity.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Motion
+### ◇ Useful technology
 
-Purposeful transitions and interactions that make interfaces feel alive without overwhelming the user.
+Building around the actual problem instead of adding complexity without purpose.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Precision
+### ◇ Engineering mindset
 
-Consistent spacing, strong typography, considered color palettes, and attention to detail.
+Test implementations, find issues, and refine the result before delivery.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Performance
+### ◇ Continuous learning
 
-Responsive layouts, practical implementation, and an emphasis on making the experience work across screens.
+Explore new tools, improve existing workflows, and keep developing practical skills.
 
 </td>
 </tr>
@@ -91,133 +95,160 @@ Responsive layouts, practical implementation, and an emphasis on making the expe
 
 ---
 
-## `03 / THE CREATIVE STACK`
+## 03 — AREAS OF INTEREST
 
 <div align="center">
 
-### Technologies & tools
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" alt="Technology and development tool icons" />
+**WEB**
 
 <br/><br/>
 
-| Focus | Direction |
-|:--|:--|
-| Interface design | Modern, minimal, premium UI |
-| Visual direction | Dark themes, gradients, dimensional layouts |
-| Web experiences | Responsive and interactive interfaces |
-| Development workflow | Code, test, refine, improve |
-| Exploration | 3D web visuals and motion design |
+Modern interfaces
 
-</div>
+Responsive layouts
 
-<sub>The icons represent web technologies and tools associated with this profile's development focus, not a claim of expert-level proficiency in every tool.</sub>
-
----
-
-## `04 / SELECTED WORK`
-
-<div align="center">
-
-### Ideas deserve great execution.
-
-A project should look considered, work reliably, and solve a real problem.
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Interactive Web Experiences
-
-**The direction**
-
-Immersive landing pages, expressive visual systems, responsive components, and interfaces with a strong sense of depth.
-
-**Design language**
-
-`DIMENSION` · `MOTION` · `DETAIL`
+Interactive experiences
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### ◈ Custom Digital Products
+**AI / ML**
 
-**The direction**
+<br/><br/>
 
-Websites and software shaped around specific requirements, with attention to usability, testing, and refinement.
+Applied AI concepts
 
-**Build approach**
+Machine learning exploration
 
-`PLAN` · `BUILD` · `TEST`
+Intelligent applications
+
+</td>
+<td align="center" width="33%">
+
+**BUILD**
+
+<br/><br/>
+
+Custom solutions
+
+Debugging and testing
+
+Iterative improvement
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+## 04 — TOOLS & TECHNOLOGIES
+
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code icons" />
+
+<br/><br/>
+
+| Category | Focus |
+|:--|:--|
+| Web development | HTML, CSS, JavaScript |
+| Version control | Git and GitHub |
+| Development environment | VS Code |
+| Learning interests | AI, machine learning, interactive 3D web experiences |
+
+</div>
+
+<sub>These are tools and areas associated with my development work and interests, not a claim of mastery in every technology. Explore my repositories for concrete examples.</sub>
+
+---
+
+## 05 — PROJECTS
+
+<div align="center">
+
+### The work speaks through the code.
+
+I use projects to explore ideas, build useful functionality, and improve the details that shape the user experience.
+
+<br/>
 
 <a href="https://github.com/PiyushSuthar-AI?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_MY_PUBLIC_REPOSITORIES-→-18C9A7?style=for-the-badge&labelColor=101820" alt="View public repositories" />
+  <img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-OPEN%20GITHUB%20%20↗-202020?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=080808" alt="Browse public repositories" />
 </a>
-
-<br/>
-
-<sub>Explore my repositories for actual projects, source code, and experiments.</sub>
 
 </div>
 
+<br/>
+
+**What to look for in my repositories**
+
+- Web projects and interface experiments
+- Code, implementation details, and improvements
+- Explorations in AI and emerging web experiences
+
+<sub>Only repositories that actually exist on my GitHub profile are linked here; no fictional projects or fabricated client work.</sub>
+
 ---
 
-## `05 / GITHUB ACTIVITY`
+## 06 — GITHUB OVERVIEW
 
 <div align="center">
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=07131F&title_color=18C9A7&icon_color=FF9933&text_color=E5EDF5&ring_color=18C9A7" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=080808&title_color=E5E5E5&text_color=B8B8B8&icon_color=C0C0C0&ring_color=C0C0C0" alt="GitHub statistics" />
 </a>
-
 <a href="https://github.com/PiyushSuthar-AI">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=07131F&title_color=18C9A7&text_color=E5EDF5" alt="Most-used programming languages from public repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=080808&title_color=E5E5E5&text_color=B8B8B8" alt="Languages detected in public repositories" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img src="https://streak-stats.demolab.com?user=PiyushSuthar-AI&hide_border=true&background=07131F&ring=18C9A7&fire=FF9933&currStreakLabel=18C9A7&sideLabels=E5EDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BAE" width="100%" alt="GitHub contribution streak statistics" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=PiyushSuthar-AI&hide_border=true&background=080808&ring=C0C0C0&fire=E5E5E5&currStreakLabel=C0C0C0&sideLabels=B8B8B8&currStreakNum=FFFFFF&sideNums=E5E5E5&dates=777777" alt="GitHub contribution streak" />
 </a>
 
 </div>
 
-<sub>These cards depend on public GitHub data and third-party services. Language percentages reflect detected repository code, not a verified skill ranking.</sub>
+<sub>Statistics are provided by third-party services and depend on public GitHub data. Their availability and displayed figures may change.</sub>
 
 ---
 
-## `06 / THE NEXT CHAPTER`
+## 07 — THE STANDARD
 
 <div align="center">
 
-### The goal is not just to build websites.
+<br/>
 
-### It is to create experiences people remember.
+### LESS NOISE. MORE INTENTION.
 
 <br/>
 
-**DESIGN WITH INTENT. BUILD WITH PRECISION. KEEP EXPLORING.**
+*Thoughtful design. Practical engineering. Continuous improvement.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF9933,50:FFFFFF,100:18C9A7&section=footer" width="100%" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:555555,50:EEEEEE,100:555555&section=footer" alt="" />
 
-<br/>
+<br/><br/>
+
+**PIYUSH SUTHAR**
+
+<sub>AI · WEB · DIGITAL EXPERIENCES</sub>
+
+<br/><br/>
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img src="https://img.shields.io/badge/GITHUB-PiyushSuthar--AI-101820?style=for-the-badge&logo=github&logoColor=18C9A7" alt="Piyush Suthar on GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=E5E5E5" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<sub>Crafted with curiosity · Inspired by India's tricolour · Built for the digital future</sub>
+<sub>OBSIDIAN ELITE — Built around clarity, not noise.</sub>
 
 </div>
