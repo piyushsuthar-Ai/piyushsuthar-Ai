@@ -1,29 +1,29 @@
 
 <!--
-  TOXIC MINIMAL / NEON OVERDRIVE
+  BLUE NEON / CYBERPUNK
   GitHub Profile: PiyushSuthar-AI
-  Palette: Obsidian Black / Laser Lime / Platinum Silver
+  Palette: Midnight Navy / Electric Blue / Ice Cyan
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050605,35:11160B,65:293B0A,100:050605&fontColor=F4F7ED&fontSize=48&fontAlignY=37&desc=AI%20%2F%20WEB%20DEVELOPMENT%20%2F%20DIGITAL%20SYSTEMS&descSize=12&descAlignY=58&descColor=B6FF00&animation=fadeIn" alt="Piyush Suthar — Toxic Minimal neon header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,35:071B3A,70:075985,100:030712&fontColor=F0F9FF&fontSize=48&fontAlignY=36&desc=AI%20EXPLORATION%20%2F%20WEB%20DEVELOPMENT%20%2F%20DIGITAL%20EXPERIENCES&descSize=11&descAlignY=58&descColor=7DD3FC&animation=fadeIn" alt="Piyush Suthar blue neon developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=B6FF00&center=true&vCenter=true&width=700&lines=BUILDING+BEYOND+THE+ORDINARY.;AI+%2B+WEB+%2B+CREATIVE+ENGINEERING.;IDEAS+IN.+EXPERIENCES+OUT.;DESIGN.+BUILD.+TEST.+EVOLVE." alt="Animated developer tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=BUILDING+BEYOND+THE+ORDINARY.;IDEAS+INTO+DIGITAL+EXPERIENCES.;EXPLORING+AI.+BUILDING+FOR+THE+WEB.;DESIGN.+DEVELOP.+TEST.+EVOLVE." alt="Animated blue neon developer introduction" />
 
 <br/><br/>
 
 <a href="https://github.com/PiyushSuthar-AI?tab=repositories">
-  <img src="https://img.shields.io/badge/ACCESS_PROJECTS-B6FF00?style=for-the-badge&logo=github&logoColor=090B09&labelColor=B6FF00" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-38BDF8?style=for-the-badge&logo=github&logoColor=030712&labelColor=38BDF8" alt="Explore GitHub projects" />
 </a>
 &nbsp;
 <a href="https://github.com/PiyushSuthar-AI">
-  <img src="https://img.shields.io/badge/IDENTITY-PLATINUM-E4E4E7?style=for-the-badge&logo=github&logoColor=090B09&labelColor=090B09" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/DIGITAL_LAB-0B162B?style=for-the-badge&logo=github&logoColor=7DD3FC&labelColor=0B162B" alt="GitHub digital lab" />
 </a>
 
 <br/><br/>
 
-<sub>[ SYSTEM ONLINE ] &nbsp; / &nbsp; DIGITAL CRAFT &nbsp; / &nbsp; CONTINUOUS EVOLUTION</sub>
+<sub>01 / DESIGN &nbsp; • &nbsp; 02 / DEVELOPMENT &nbsp; • &nbsp; 03 / ITERATION</sub>
 
 </div>
 
@@ -33,31 +33,22 @@
 <tr>
 <td width="65%" valign="middle">
 
-## `01 // OPERATOR`
+## `01 / THE DEVELOPER`
 
-# PIYUSH SUTHAR
+# Piyush Suthar
 
 **AI Developer · Website Builder**
 
-I turn ideas and requirements into digital experiences — combining modern web development, considered visual design, and practical problem-solving.
+I enjoy turning ideas and requirements into modern digital experiences.
 
-I'm interested in building useful products, exploring AI and machine learning, and creating interfaces that feel distinctive without sacrificing usability.
+My interests include web development, interactive interfaces, custom software, and exploring how AI can help solve practical problems.
 
-**Current direction**
-
-- Web experiences and interactive interfaces
-- Custom websites and software solutions
-- AI and machine learning exploration
-- Testing, debugging, and iterative improvement
+I focus on thoughtful design, working functionality, testing, and continuous improvement.
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=2" alt="Web development and coding tool icons" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MODE-EXPLORATION-B6FF00?style=flat-square&labelColor=10130A" alt="Mode exploration" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=2" alt="Web and development tool icons" />
 
 </td>
 </tr>
@@ -65,44 +56,42 @@ I'm interested in building useful products, exploring AI and machine learning, a
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090B09,45:B6FF00,55:E4E4E7,100:090B09" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030712,50:38BDF8,100:030712" alt="" />
 
 </div>
 
-## `02 // DESIGN ENGINE`
+## `02 / WHAT I'M BUILDING TOWARD`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <code>01 / VISUAL IMPACT</code>
+### ◈ WEB EXPERIENCES
 
-Dark environments. Sharp contrast. Restrained neon. Layered interfaces.
-
-A visual system should make the product recognizable, not distract from it.
+Modern layouts, responsive interfaces, interactive elements, and visually distinctive websites.
 
 </td>
 <td width="50%" valign="top">
 
-### <code>02 / FUNCTION FIRST</code>
+### ◈ AI EXPLORATION
 
-Design and functionality belong together. Each component should have a purpose and work as expected.
+Learning about AI and machine learning concepts and their potential use in practical applications.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <code>03 / BUILD & REFINE</code>
+### ◈ CUSTOM SOLUTIONS
 
-Develop, test, find issues, and improve. The details matter from the first layout to the final interaction.
+Websites and software shaped around specific needs, with attention to usability and implementation.
 
 </td>
 <td width="50%" valign="top">
 
-### <code>04 / FUTURE EXPLORATION</code>
+### ◈ CREATIVE TECHNOLOGY
 
-Explore AI-powered applications, 3D-inspired web visuals, and emerging approaches to digital experiences.
+Exploring blue neon visuals, dimensional interfaces, motion, and futuristic design directions.
 
 </td>
 </tr>
@@ -112,107 +101,86 @@ Explore AI-powered applications, 3D-inspired web visuals, and emerging approache
 
 <div align="center">
 
-## `03 // TECH SIGNAL`
+## `03 / THE TECHSPACE`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-INTERFACES-B6FF00?style=flat-square&labelColor=090B09" alt="Web interfaces" />
-<img src="https://img.shields.io/badge/AI-EXPLORATION-E4E4E7?style=flat-square&labelColor=090B09" alt="AI exploration" />
-<img src="https://img.shields.io/badge/WORKFLOW-ITERATIVE-B6FF00?style=flat-square&labelColor=090B09" alt="Iterative workflow" />
+<img src="https://img.shields.io/badge/WEB-INTERFACES-0B162B?style=flat-square&labelColor=030712&color=38BDF8" alt="Web interfaces" />
+<img src="https://img.shields.io/badge/AI-EXPLORATION-0B162B?style=flat-square&labelColor=030712&color=7DD3FC" alt="AI exploration" />
+<img src="https://img.shields.io/badge/WORKFLOW-ITERATIVE-0B162B?style=flat-square&labelColor=030712&color=38BDF8" alt="Iterative workflow" />
 
 </div>
 
-<sub>These icons and labels reflect development tools and interests. They do not imply expert-level proficiency in every technology. See repository code for concrete examples.</sub>
+<sub>These icons represent development tools and areas of interest, not a claim of expert-level proficiency in every technology.</sub>
 
 ---
 
-## `04 // PROJECT TERMINAL`
+## `04 / PROJECT TRANSMISSION`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=B6FF00&center=true&vCenter=true&width=560&lines=%3E+Initializing+project+archive...;%3E+Loading+public+repositories...;%3E+Ready+to+explore." alt="Animated project terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=570&lines=%3E+Opening+public+repository+index...;%3E+Ready+to+explore+the+code." alt="Animated repository terminal" />
+
+<br/><br/>
+
+### REAL PROJECTS. ACTUAL CODE.
+
+Explore my repositories to see the work, experiments, and implementations that are available publicly.
 
 <br/>
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**/ WEB SYSTEMS**
-
-Modern websites, responsive interfaces, and interactive user experiences.
-
-</td>
-<td width="50%" valign="top">
-
-**/ SOFTWARE & AI**
-
-Custom solutions and explorations in practical AI and emerging technologies.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 <a href="https://github.com/PiyushSuthar-AI?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN_PUBLIC_REPOSITORIES-090B09?style=for-the-badge&logo=github&logoColor=B6FF00&labelColor=090B09" alt="Open public repositories" />
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORIES-030712?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Open public repositories" />
 </a>
-
-<br/><br/>
-
-<sub>Real repositories only. No fictional project cards or invented client work.</sub>
 
 </div>
 
 ---
 
-## `05 // GITHUB TELEMETRY`
+## `05 / GITHUB SIGNAL`
 
 <div align="center">
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=090B09&title_color=B6FF00&text_color=E4E4E7&icon_color=B6FF00&ring_color=B6FF00" alt="GitHub statistics from public profile data" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=050A18&title_color=38BDF8&text_color=DBEAFE&icon_color=7DD3FC&ring_color=38BDF8" alt="GitHub statistics" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=090B09&title_color=B6FF00&text_color=E4E4E7" alt="Languages detected in public repositories" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=050A18&title_color=38BDF8&text_color=DBEAFE" alt="Languages detected in public repositories" />
 </a>
 
 </div>
 
-<sub>Stats depend on public GitHub data and third-party service availability. Language distribution is not a measure of skill or expertise.</sub>
+<sub>Statistics depend on public GitHub data and third-party service availability. Language percentages do not measure proficiency.</sub>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090B09,45:B6FF00,55:E4E4E7,100:090B09" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:030712,50:38BDF8,100:030712" alt="" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=B6FF00&center=true&vCenter=true&width=600&lines=LESS+NOISE.+MORE+SIGNAL.;BUILD+WITH+INTENTION.;KEEP+PUSHING+FORWARD." alt="Closing statement" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=620&lines=THINK+BEYOND+THE+SCREEN.;BUILD+WITH+PURPOSE.;KEEP+EVOLVING." alt="Closing message" />
 
 <br/><br/>
 
 **PIYUSH SUTHAR**
 
-<sub>AI / WEB DEVELOPMENT / DIGITAL EXPERIENCES</sub>
+<sub>AI · WEB DEVELOPMENT · DIGITAL EXPERIENCES</sub>
 
 <br/><br/>
 
 <a href="https://github.com/PiyushSuthar-AI">
-  <img src="https://img.shields.io/badge/TOXIC_MINIMAL-OBSIDIAN_%2B_LIME-B6FF00?style=for-the-badge&labelColor=090B09" alt="Toxic Minimal design signature" />
+  <img src="https://img.shields.io/badge/BLUE_NEON- DIGITAL_LAB-0B162B?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Blue neon digital lab" />
 </a>
 
 <br/><br/>
 
-<sub>ENGINEER THE EXPERIENCE. ELEVATE THE DETAILS.</sub>
+<sub>ENGINEER THE EXPERIENCE. EXPLORE THE POSSIBLE.</sub>
 
 </div>
