@@ -1,103 +1,126 @@
 
 <div align="center">
 
-# Piyush Suthar
+<!-- PREMIUM NEON HEADER -->
 
-### BCA | Artificial Intelligence & Machine Learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B14,45:172554,100:6D28D9&text=PIYUSH%20SUTHAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%26%20MACHINE%20LEARNING&descSize=13&descAlignY=58&animation=fadeIn" />
 
-**Custom Websites | Software Applications | Testing | Deployment**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=Custom+Website+Developer;Software+Application+Developer;AI+%26+Machine+Learning;Secure+Deployment+%7C+Quality+Testing;Build.+Test.+Fix.+Deliver." />
 
-I build customized websites, applications, and software solutions according to customer requirements.
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=68A5FF&center=true&vCenter=true&width=650&lines=Custom+Website+Development;Software+Application+Development;AI+%26+Machine+Learning;Test+Before+Delivery;Build.+Test.+Fix.+Deliver." alt="Animated developer introduction" />
+<img src="https://img.shields.io/badge/FOCUS-CUSTOM%20DEVELOPMENT-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/WORKFLOW-TEST%20BEFORE%20DELIVERY-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/INTEREST-AI%20%26%20ML-0891B2?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ◈ ABOUT ME
 
-Hi, I'm **Piyush Suthar**, a BCA student specializing in Artificial Intelligence and Machine Learning.
+```yaml
+name: Piyush Suthar
+education: BCA
+specialization: Artificial Intelligence & Machine Learning
 
-I develop custom websites, software applications, and digital solutions tailored to each customer's needs.
+focus:
+  - Custom Website Development
+  - Software & Application Development
+  - AI and Machine Learning
+  - Server Deployment
+  - Testing and Bug Fixing
 
-My priority is to build reliable solutions, test them on my server, identify and fix bugs, and deliver the final product only after successful verification.
+workflow: Build -> Test -> Fix -> Verify -> Deliver
+mission: Turning Customer Ideas into Digital Solutions
+```
 
-## 🚀 My Services
+## ◈ WHAT I BUILD
 
-- 🌐 Custom Website Development
-- 💻 Software & Application Development
-- 🤖 AI & Machine Learning Solutions
-- ⚙️ Server Deployment & Configuration
-- 🧪 Software Testing & Bug Fixing
-- 🔐 Security-Focused Development
-- 🔧 Maintenance & Technical Support
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ⚙️ My Development Process
+### 🌐 Web Development
 
-**01. Understand Requirements**  
-Analyze the customer's needs and project specifications.
+Custom websites, responsive interfaces, business websites, landing pages and web applications designed around customer requirements.
 
-**02. Design & Develop**  
-Build the website, application, or software according to the agreed requirements.
+</td>
+<td width="50%" valign="top">
 
-**03. Deploy to My Server**  
-Set up the project in a controlled testing environment.
+### ⚙️ Software Engineering
 
-**04. Test & Fix Bugs**  
-Check functionality, identify issues, and resolve detected bugs.
+Customized software, application features, dashboards and business tools built to solve specific problems.
 
-**05. Final Verification**  
-Repeat relevant tests and verify the project against the agreed requirements.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**06. Deliver to Customer**  
-Send the website, application, or software after successful testing and verification.
+### 🤖 AI & Machine Learning
 
-## 🔐 Quality & Security
+AI-powered features, intelligent workflows and machine-learning projects.
 
-I aim to deliver reliable and secure digital solutions using appropriate practices such as:
+</td>
+<td width="50%" valign="top">
 
-- Input validation and error handling
-- Authentication and access controls
-- Secure configuration and secret management
-- HTTPS for production websites
-- Dependency checks and functionality testing
-- Appropriate backups and deployment verification
+### 🛡️ Quality & Security
 
-Security measures depend on the specific requirements of each project.
+Testing, bug fixing, secure configuration and deployment verification appropriate to each project.
 
-## 🛠️ Areas of Interest
+</td>
+</tr>
+</table>
 
-- Web Development
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Quality Assurance
-- Server Administration
-- Git & GitHub
-
-## 🎯 My Mission
-
-To transform customer ideas into practical digital products through customized development, systematic testing, bug fixing, and reliable delivery.
-
-**My workflow: Build → Test → Fix → Verify → Deliver.**
-
-## 🤝 Contact & Collaboration
-
-Have an idea for a website, application, or software project?
-
-Let's discuss your requirements and build a solution that fits your needs.
-
-- **Name:** Piyush Suthar
-- **Education:** BCA — AI & ML
-- **GitHub:** [PiyushSuthar-AI](https://github.com/PiyushSuthar-AI)
-
----
+## ◈ MY DEVELOPMENT PIPELINE
 
 <div align="center">
 
-**BUILD • TEST • IMPROVE • DELIVER**
+`01 REQUIREMENTS` → `02 DEVELOPMENT` → `03 SERVER TESTING`
 
-*Turning ideas into customized digital solutions.*
+`03 SERVER TESTING` → `04 BUG FIXING` → `05 VERIFICATION`
+
+`05 VERIFICATION` → `06 CUSTOMER DELIVERY`
+
+</div>
+
+> **My standard:** A project is delivered only after the agreed requirements have been checked and relevant testing has passed.
+
+## ◈ TECHNOLOGY INTERESTS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+*Add or remove technology badges to match the tools you actually use.*
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=60A5FA&text_color=E5E7EB" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSuthar-AI&theme=tokyonight&hide_border=true&background=080B14&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" />
+
+</div>
+
+## ◈ MY MISSION
+
+To transform customer requirements into practical digital products through customized development, careful testing, bug fixing and reliable delivery.
+
+<div align="center">
+
+### BUILD ◈ TEST ◈ IMPROVE ◈ DELIVER
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:172554,100:080B14" />
 
 </div>
