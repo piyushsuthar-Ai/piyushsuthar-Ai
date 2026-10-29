@@ -1,126 +1,200 @@
 
 <div align="center">
 
-<!-- PREMIUM NEON HEADER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B14,45:172554,100:6D28D9&text=PIYUSH%20SUTHAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BCA%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%26%20MACHINE%20LEARNING&descSize=13&descAlignY=58&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=700&lines=Custom+Website+Developer;Software+Application+Developer;AI+%26+Machine+Learning;Secure+Deployment+%7C+Quality+Testing;Build.+Test.+Fix.+Deliver." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:030712,35:101B3D,70:312E81,100:030712&text=PIYUSH%20SUTHAR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=ENGINEERING%20THE%20DIGITAL%20FUTURE&descSize=15&descAlignY=61&animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-CUSTOM%20DEVELOPMENT-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/WORKFLOW-TEST%20BEFORE%20DELIVERY-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/INTEREST-AI%20%26%20ML-0891B2?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=8B9DFF&center=true&vCenter=true&width=750&lines=AI+%26+MACHINE+LEARNING;CUSTOM+SOFTWARE+ENGINEERING;WEB+APPLICATION+DEVELOPMENT;QUALITY+ASSURANCE+%26+DEPLOYMENT" />
+
+<br/><br/>
+
+<a href="https://github.com/PiyushSuthar-AI">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-080B14?style=for-the-badge&logo=github&logoColor=9CAEFF" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SOFTWARE-080B14?style=for-the-badge&logo=probot&logoColor=9CAEFF" />
+<img src="https://img.shields.io/badge/STANDARD-TEST%20BEFORE%20DELIVERY-080B14?style=for-the-badge&logo=checkmarx&logoColor=8B9DFF" />
+
+<br/><br/>
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+<div align="center">
 
-```yaml
-name: Piyush Suthar
-education: BCA
-specialization: Artificial Intelligence & Machine Learning
+## ◈ 01 — THE DEVELOPER
 
-focus:
-  - Custom Website Development
-  - Software & Application Development
-  - AI and Machine Learning
-  - Server Deployment
-  - Testing and Bug Fixing
+### Turning ideas into engineered experiences.
 
-workflow: Build -> Test -> Fix -> Verify -> Deliver
-mission: Turning Customer Ideas into Digital Solutions
-```
+</div>
 
-## ◈ WHAT I BUILD
+I'm **Piyush Suthar**, a BCA student specializing in Artificial Intelligence and Machine Learning.
+
+I build customized websites, software applications, and digital solutions around real customer requirements. My approach combines thoughtful engineering, systematic testing, bug fixing, and controlled deployment.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Development
+### ◇ WHAT I CREATE
 
-Custom websites, responsive interfaces, business websites, landing pages and web applications designed around customer requirements.
+- Custom websites & web applications
+- Business software & dashboards
+- AI-powered digital solutions
+- Customer-specific application features
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Software Engineering
+### ◇ HOW I WORK
 
-Customized software, application features, dashboards and business tools built to solve specific problems.
+- Requirement-driven development
+- Server-based testing
+- Bug detection & resolution
+- Final verification before delivery
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◈ 02 — ENGINEERING CAPABILITIES
+
+*Designed around the problem. Built around the customer.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-0B1020?style=flat-square" />
+
+### 🌐 Digital Experiences
+
+Modern, responsive websites and interfaces tailored to each project's requirements.
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-0B1020?style=flat-square" />
+
+### ⚙️ Custom Software
+
+Purpose-built applications, business tools, dashboards, and workflow solutions.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/03-0B1020?style=flat-square" />
 
-AI-powered features, intelligent workflows and machine-learning projects.
+### ◈ AI & Machine Learning
+
+Intelligent features and machine-learning solutions for relevant use cases.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Quality & Security
+<img src="https://img.shields.io/badge/04-0B1020?style=flat-square" />
 
-Testing, bug fixing, secure configuration and deployment verification appropriate to each project.
+### ⬡ Deployment & Quality
+
+Application deployment, functional testing, debugging, and release verification.
 
 </td>
 </tr>
 </table>
 
-## ◈ MY DEVELOPMENT PIPELINE
+---
 
 <div align="center">
 
-`01 REQUIREMENTS` → `02 DEVELOPMENT` → `03 SERVER TESTING`
+## ◈ 03 — THE RELEASE PROTOCOL
 
-`03 SERVER TESTING` → `04 BUG FIXING` → `05 VERIFICATION`
+### Nothing gets delivered without verification.
 
-`05 VERIFICATION` → `06 CUSTOMER DELIVERY`
+<br/>
+
+<img src="https://img.shields.io/badge/01_DISCOVER-REQUIREMENTS-10172A?style=for-the-badge" />
+
+<br/>↓<br/>
+
+<img src="https://img.shields.io/badge/02_ENGINEER-DEVELOPMENT-172554?style=for-the-badge" />
+
+<br/>↓<br/>
+
+<img src="https://img.shields.io/badge/03_DEPLOY-TEST_SERVER-312E81?style=for-the-badge" />
+
+<br/>↓<br/>
+
+<img src="https://img.shields.io/badge/04_DEBUG-FIX_ISSUES-3B1D5E?style=for-the-badge" />
+
+<br/>↓<br/>
+
+<img src="https://img.shields.io/badge/05_VERIFY-QUALITY_CHECK-164E63?style=for-the-badge" />
+
+<br/>↓<br/>
+
+<img src="https://img.shields.io/badge/06_DELIVER-CUSTOMER_RELEASE-065F46?style=for-the-badge" />
 
 </div>
 
-> **My standard:** A project is delivered only after the agreed requirements have been checked and relevant testing has passed.
-
-## ◈ TECHNOLOGY INTERESTS
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+## ◈ 04 — TECHNOLOGY STACK
+
+*Tools selected according to the requirements of each project.*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<sub>Add backend frameworks, databases, cloud platforms, and other tools as you use them.</sub>
 
 </div>
 
-*Add or remove technology badges to match the tools you actually use.*
-
-## ◈ GITHUB ANALYTICS
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB" />
+## ◈ 05 — GITHUB INTELLIGENCE
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=60A5FA&text_color=E5E7EB" />
+<br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSuthar-AI&theme=tokyonight&hide_border=true&background=080B14&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=080B14&title_color=8B9DFF&icon_color=C4B5FD&text_color=CBD5E1&ring_color=8B9DFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=080B14&title_color=8B9DFF&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushSuthar-AI&bg_color=080B14&color=8B9DFF&line=6366F1&point=C4B5FD&area=true&hide_border=true" />
 
 </div>
 
-## ◈ MY MISSION
-
-To transform customer requirements into practical digital products through customized development, careful testing, bug fixing and reliable delivery.
+---
 
 <div align="center">
 
-### BUILD ◈ TEST ◈ IMPROVE ◈ DELIVER
+## ◈ 06 — THE MISSION
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:172554,100:080B14" />
+### THINK DEEP. BUILD SMART. TEST EVERYTHING.
+
+I aim to transform customer requirements into reliable digital products through customized engineering, continuous improvement, and responsible delivery.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:030712,50:312E81,100:030712&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20REFINE%20%E2%80%A2%20DELIVER&fontSize=18&fontColor=FFFFFF&animation=fadeIn" />
+
+<sub>PIYUSH SUTHAR · BCA · ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</sub>
 
 </div>
