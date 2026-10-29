@@ -1,72 +1,103 @@
-<!--
-  PIYUSH SUTHAR — Premium GitHub Profile
-  Repository name must match your exact GitHub username: piyushsuthar-Ai
-  Replace project URLs and social links only when you know the correct URLs.
+
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Piyush Suthar — Web Developer and AI/ML Enthusiast" />
+
+# Piyush Suthar
+
+### BCA | Artificial Intelligence & Machine Learning
+
+**Custom Websites | Software Applications | Testing | Deployment**
+
+I build customized websites, applications, and software solutions according to customer requirements.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=68A5FF&center=true&vCenter=true&width=650&lines=Custom+Website+Development;Software+Application+Development;AI+%26+Machine+Learning;Test+Before+Delivery;Build.+Test.+Fix.+Deliver." alt="Animated developer introduction" />
+
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Piyush Suthar**, a BCA student specializing in Artificial Intelligence and Machine Learning.
+
+I develop custom websites, software applications, and digital solutions tailored to each customer's needs.
+
+My priority is to build reliable solutions, test them on my server, identify and fix bugs, and deliver the final product only after successful verification.
+
+## 🚀 My Services
+
+- 🌐 Custom Website Development
+- 💻 Software & Application Development
+- 🤖 AI & Machine Learning Solutions
+- ⚙️ Server Deployment & Configuration
+- 🧪 Software Testing & Bug Fixing
+- 🔐 Security-Focused Development
+- 🔧 Maintenance & Technical Support
+
+## ⚙️ My Development Process
+
+**01. Understand Requirements**  
+Analyze the customer's needs and project specifications.
+
+**02. Design & Develop**  
+Build the website, application, or software according to the agreed requirements.
+
+**03. Deploy to My Server**  
+Set up the project in a controlled testing environment.
+
+**04. Test & Fix Bugs**  
+Check functionality, identify issues, and resolve detected bugs.
+
+**05. Final Verification**  
+Repeat relevant tests and verify the project against the agreed requirements.
+
+**06. Deliver to Customer**  
+Send the website, application, or software after successful testing and verification.
+
+## 🔐 Quality & Security
+
+I aim to deliver reliable and secure digital solutions using appropriate practices such as:
+
+- Input validation and error handling
+- Authentication and access controls
+- Secure configuration and secret management
+- HTTPS for production websites
+- Dependency checks and functionality testing
+- Appropriate backups and deployment verification
+
+Security measures depend on the specific requirements of each project.
+
+## 🛠️ Areas of Interest
+
+- Web Development
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Quality Assurance
+- Server Administration
+- Git & GitHub
+
+## 🎯 My Mission
+
+To transform customer ideas into practical digital products through customized development, systematic testing, bug fixing, and reliable delivery.
+
+**My workflow: Build → Test → Fix → Verify → Deliver.**
+
+## 🤝 Contact & Collaboration
+
+Have an idea for a website, application, or software project?
+
+Let's discuss your requirements and build a solution that fits your needs.
+
+- **Name:** Piyush Suthar
+- **Education:** BCA — AI & ML
+- **GitHub:** [PiyushSuthar-AI](https://github.com/PiyushSuthar-AI)
+
+---
+
 <div align="center">
-  <a href="https://github.com/piyushsuthar-Ai">
-    <img src="https://img.shields.io/badge/GitHub-piyushsuthar--Ai-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=101A2E" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-247BFF?style=for-the-badge&labelColor=0B1020" alt="Web development" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF3D5A?style=for-the-badge&labelColor=0B1020" alt="AI and machine learning" />
-</div>
-<br/>
-<div align="center">
-  <img src="assets/section-about.svg" width="100%" alt="About me" />
-</div>
-💻 Exploring web development and practical software projects.
-🤖 Interested in AI/ML and intelligent applications.
-🧩 I learn by building, testing, and improving projects.
-🎯 Current focus: strengthening my programming fundamentals and creating useful digital experiences.
-<div align="center">
-  <img src="assets/section-stack.svg" width="100%" alt="Technology stack" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML" />
-</div>
-<br/>
-<div align="center">
-  <img src="assets/section-projects.svg" width="100%" alt="Selected projects" />
-</div>
-<table>
-  <tr>
-    <td width="50%">
-      <h3>◈ Party QR Scanner</h3>
-      <p>QR-based scanning project.</p>
-      <sub>Replace <code>YOUR_PARTY_QR_SCANNER_REPO</code> with the real repository URL.</sub>
-    </td>
-    <td width="50%">
-      <h3>◈ Alert System</h3>
-      <p>Alert-system project.</p>
-      <sub>Replace <code>YOUR_ALERT_SYSTEM_REPO</code> with the real repository URL.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>◈ Smart Home Brain</h3>
-      <p>Smart-home project.</p>
-      <sub>Replace <code>YOUR_SMART_HOME_BRAIN_REPO</code> with the real repository URL.</sub>
-    </td>
-    <td width="50%">
-      <h3>◈ Laptop Store</h3>
-      <p>Laptop-store website project.</p>
-      <sub>Replace <code>YOUR_LAPTOP_STORE_REPO</code> with the real repository URL.</sub>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <img src="assets/section-connect.svg" width="100%" alt="Connect" />
-</div>
-<div align="center">
-  <a href="https://github.com/piyushsuthar-Ai">
-    <img src="https://img.shields.io/badge/Explore%20my%20GitHub-101A2E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub" />
-  </a>
-</div>
-<div align="center">
-  <sub>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · SHIP WITH CARE</sub>
+
+**BUILD • TEST • IMPROVE • DELIVER**
+
+*Turning ideas into customized digital solutions.*
+
 </div>
