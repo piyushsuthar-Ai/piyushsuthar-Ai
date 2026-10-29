@@ -1,69 +1,66 @@
 
-<!-- ═══════════════════════════════════════════════════════════
-     PIYUSH SUTHAR — NEON CYAN × PURPLE DEVELOPER PROFILE
-     Theme inspired by the NOVYRA website design
-═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070913,45:101526,75:273047,100:00f0ff&fontColor=edf2ff&text=PIYUSH%20SUTHAR&fontSize=54&fontAlignY=38&desc=BUILD%20BEYOND%20ORDINARY&descSize=16&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=PIYUSH%20SUTHAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20TOMORROW%20%7C%20INDIA&descSize=16&descAlignY=58&animation=twinkling&color=0:080B14,35:15152B,70:253D4D,100:00F5D4"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+STUDENT;WEB+%26+SOFTWARE+DEVELOPER;CUSTOM+DIGITAL+SOLUTIONS;BUILD.+TEST.+REFINE.+DELIVER."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=720&lines=HELLO%2C+WORLD.+I'M+PIYUSH.;BCA+%7C+ARTIFICIAL+INTELLIGENCE+%26+ML;BUILDING+CUSTOM+DIGITAL+EXPERIENCES;IDEA+%E2%86%92+CODE+%E2%86%92+TEST+%E2%86%92+DELIVER"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00f0ff?style=for-the-badge&labelColor=070913"/>
-<img src="https://img.shields.io/badge/DOMAIN-WEB%20%26%20SOFTWARE-a855f7?style=for-the-badge&labelColor=070913"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-9ba8c0?style=for-the-badge&labelColor=070913"/>
+<img src="https://img.shields.io/badge/BASED-IN%20INDIA-FF9933?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/BUILDING-DIGITAL%20SOLUTIONS-00F5D4?style=for-the-badge&labelColor=080B14"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20ML-9B5DE5?style=for-the-badge&labelColor=080B14"/>
 
 <br/><br/>
 
-<a href="https://github.com/PiyushSuthar-AI">
-<img src="https://img.shields.io/badge/GitHub-PiyushSuthar--AI-101526?style=flat-square&logo=github&logoColor=00f0ff"/>
-</a>
-<img src="https://img.shields.io/badge/DESIGN-DARK%20%2B%20NEON-101526?style=flat-square&labelColor=070913"/>
-<img src="https://img.shields.io/badge/MINDSET-IDEAS%20TO%20REALITY-101526?style=flat-square&labelColor=070913"/>
+**Not just code. Thoughtful solutions built around real requirements.**
+
+[GitHub Profile](https://github.com/PiyushSuthar-AI) · [Explore Repositories](https://github.com/PiyushSuthar-AI?tab=repositories)
 
 </div>
 
 ---
 
-## `01 / DEVELOPER PROFILE`
+## `01 — THE DEVELOPER`
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-### Hey, I'm Piyush 👋
+### Namaste, I'm Piyush. 🇮🇳
 
-I'm a BCA student specializing in **Artificial Intelligence and Machine Learning**, interested in building modern websites, applications and custom software.
+I'm a BCA student focused on **Artificial Intelligence and Machine Learning**, with an interest in web development and custom software engineering.
 
-My approach is simple: understand the requirements, develop the solution, test it on a server, fix issues and verify everything before delivery.
+I enjoy turning ideas and customer requirements into digital products that are practical, responsive and carefully tested.
 
-- 🌐 Custom website development
-- ⚙️ Requirement-based software solutions
-- 🧠 Exploring AI and Machine Learning
-- 🧪 Testing, debugging and refinement
-- 🚀 Turning ideas into practical digital products
+- Building websites around specific requirements
+- Developing custom software and application features
+- Exploring AI, ML and Python
+- Testing projects on a server
+- Fixing bugs before final delivery
+
+**My philosophy:** Understand the problem first. Build the right solution. Verify before delivery.
 
 </td>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
 
-### `SYSTEM.INFO`
+<div align="center">
 
-<img width="100%" src="https://img.shields.io/badge/EDUCATION-BCA%20%7C%20AI%20%26%20ML-070913?style=for-the-badge&labelColor=101526"/>
-
-<br/><br/>
-
-<img width="100%" src="https://img.shields.io/badge/APPROACH-REQUIREMENTS%20FIRST-070913?style=for-the-badge&labelColor=101526"/>
+<img src="https://img.shields.io/badge/01-THINK-FF9933?style=for-the-badge&labelColor=080B14"/>
 
 <br/><br/>
 
-<img width="100%" src="https://img.shields.io/badge/QUALITY-TEST%20BEFORE%20DELIVERY-070913?style=for-the-badge&labelColor=101526"/>
+<img src="https://img.shields.io/badge/02-ENGINEER-00F5D4?style=for-the-badge&labelColor=080B14"/>
 
 <br/><br/>
 
-<img width="100%" src="https://img.shields.io/badge/GOAL-BUILD%20USEFUL%20TECH-070913?style=for-the-badge&labelColor=101526"/>
+<img src="https://img.shields.io/badge/03-VERIFY-9B5DE5?style=for-the-badge&labelColor=080B14"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/04-DELIVER-FFFFFF?style=for-the-badge&labelColor=080B14"/>
+
+</div>
 
 </td>
 </tr>
@@ -71,81 +68,80 @@ My approach is simple: understand the requirements, develop the solution, test i
 
 ---
 
-## `02 / TECHNOLOGY STACK`
+## `02 — TECHNOLOGY UNIVERSE`
 
 <div align="center">
 
-### Languages & Development
+### Languages & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="Development technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark"/>
 
-### Tools & Workflow
+### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-Modern%20Interfaces-070913?style=flat-square&labelColor=101526"/>
-<img src="https://img.shields.io/badge/SOFTWARE-Custom%20Solutions-070913?style=flat-square&labelColor=101526"/>
-<img src="https://img.shields.io/badge/AI%2FML-Continuous%20Learning-070913?style=flat-square&labelColor=101526"/>
-<img src="https://img.shields.io/badge/QA-Testing%20%26%20Debugging-070913?style=flat-square&labelColor=101526"/>
+<img src="https://img.shields.io/badge/WEB-Development-080B14?style=flat-square&labelColor=00F5D4"/>
+<img src="https://img.shields.io/badge/SOFTWARE-Custom%20Solutions-080B14?style=flat-square&labelColor=9B5DE5"/>
+<img src="https://img.shields.io/badge/AI%2FML-Learning%20%26%20Building-080B14?style=flat-square&labelColor=FF9933"/>
 
 </div>
 
 ---
 
-## `03 / WHAT I BUILD`
+## `03 — WHAT I CREATE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Experiences
+### ◈ Web Engineering
 
-<img src="https://img.shields.io/badge/01-WEB%20SYSTEMS-00f0ff?style=flat-square&labelColor=070913"/>
+Responsive digital experiences designed around the needs of a business or project.
 
-- Responsive websites
-- Business landing pages
-- Interactive user interfaces
-- Custom website features
+- Modern websites
+- Landing pages
+- Interactive interfaces
+- Custom web features
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Software Solutions
+### ◈ Software Solutions
 
-<img src="https://img.shields.io/badge/02-SOFTWARE-a855f7?style=flat-square&labelColor=070913"/>
+Practical applications and tools planned around specific workflows.
 
-- Requirement-based applications
-- Custom workflows
-- Useful business tools
-- Feature improvements
+- Custom functionality
+- Application features
+- Business tools
+- Iterative improvements
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI & Machine Learning
+### ◈ AI & Machine Learning
 
-<img src="https://img.shields.io/badge/03-INTELLIGENCE-00f0ff?style=flat-square&labelColor=070913"/>
+Exploring intelligent systems and building knowledge through practical learning.
 
-- Exploring AI concepts
+- AI fundamentals
 - Python experiments
-- Learning ML fundamentals
-- Practical project ideas
+- Machine learning concepts
+- Project exploration
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Testing & Quality
+### ◈ Quality & Reliability
 
-<img src="https://img.shields.io/badge/04-QUALITY-C4B5FD?style=flat-square&labelColor=070913"/>
+A structured process to catch problems before a project is handed over.
 
-- Server-based testing
-- Bug identification
-- Functionality verification
-- Final pre-delivery checks
+- Server testing
+- Bug fixing
+- Feature verification
+- Final review
 
 </td>
 </tr>
@@ -153,79 +149,135 @@ My approach is simple: understand the requirements, develop the solution, test i
 
 ---
 
-## `04 / MY DEVELOPMENT PIPELINE`
+## `04 — THE BUILD PROTOCOL`
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f0ff,50:a855f7,100:00f0ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF9933,50:00F5D4,100:9B5DE5"/>
 
 <table>
 <tr>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/01-REQUIREMENTS-00f0ff?style=for-the-badge&labelColor=070913"/>
-<br/><sub>Understand the goal</sub>
+<td align="center">
+
+**01**
+
+<br/>
+
+<img src="https://img.shields.io/badge/UNDERSTAND-FF9933?style=for-the-badge&labelColor=080B14"/>
+
+<br/>
+
+<sub>Customer requirements</sub>
+
 </td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/02-PLANNING-a855f7?style=for-the-badge&labelColor=070913"/>
-<br/><sub>Define the solution</sub>
+<td align="center">
+
+**02**
+
+<br/>
+
+<img src="https://img.shields.io/badge/DEVELOP-00F5D4?style=for-the-badge&labelColor=080B14"/>
+
+<br/>
+
+<sub>Design and build</sub>
+
 </td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/03-BUILD-00f0ff?style=for-the-badge&labelColor=070913"/>
-<br/><sub>Develop the project</sub>
+<td align="center">
+
+**03**
+
+<br/>
+
+<img src="https://img.shields.io/badge/TEST-9B5DE5?style=for-the-badge&labelColor=080B14"/>
+
+<br/>
+
+<sub>Run and verify</sub>
+
 </td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/04-TEST-a855f7?style=for-the-badge&labelColor=070913"/>
-<br/><sub>Test on the server</sub>
+</tr>
+<tr>
+<td align="center">
+
+**04**
+
+<br/>
+
+<img src="https://img.shields.io/badge/DEBUG-9B5DE5?style=for-the-badge&labelColor=080B14"/>
+
+<br/>
+
+<sub>Fix identified issues</sub>
+
 </td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/05-REFINE-00f0ff?style=for-the-badge&labelColor=070913"/>
-<br/><sub>Fix and verify</sub>
+<td align="center">
+
+**05**
+
+<br/>
+
+<img src="https://img.shields.io/badge/RECHECK-00F5D4?style=for-the-badge&labelColor=080B14"/>
+
+<br/>
+
+<sub>Test the improvements</sub>
+
 </td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/06-DELIVER-a855f7?style=for-the-badge&labelColor=070913"/>
-<br/><sub>Prepare handover</sub>
+<td align="center">
+
+**06**
+
+<br/>
+
+<img src="https://img.shields.io/badge/DELIVER-FF9933?style=for-the-badge&labelColor=080B14"/>
+
+<br/>
+
+<sub>Prepare handover</sub>
+
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:00f0ff,100:a855f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:9B5DE5,50:00F5D4,100:FF9933"/>
 
 </div>
 
 ---
 
-## `05 / FEATURED PROJECTS`
+## `05 — PROJECT SHOWCASE`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ NOVYRA Studio
+### ◈ NOVYRA
 
-<img src="https://img.shields.io/badge/PROJECT-DIGITAL%20STUDIO-00f0ff?style=flat-square&labelColor=070913"/>
+<img src="https://img.shields.io/badge/TYPE-DIGITAL%20STUDIO-00F5D4?style=flat-square&labelColor=080B14"/>
 
-A dark, modern digital studio website concept with neon gradients, responsive layouts and interactive sections.
+A modern digital studio website concept featuring a dark navy interface and neon gradients.
 
-**Highlights**
+**Design highlights**
 
-- Dark navy and neon color palette
-- Service and portfolio sections
-- Interactive product catalogue concept
-- Contact enquiry interface
+- Responsive layout
+- Services and portfolio sections
+- Interactive product catalogue
+- Contact enquiry flow
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ AI Developer Portfolio
+### ◈ Personal Developer Portfolio
 
-<img src="https://img.shields.io/badge/PROJECT-PERSONAL%20BRANDING-a855f7?style=flat-square&labelColor=070913"/>
+<img src="https://img.shields.io/badge/TYPE-DEVELOPER%20BRANDING-9B5DE5?style=flat-square&labelColor=080B14"/>
 
-A personal developer profile concept focused on technology, project showcases and a premium cyber-inspired aesthetic.
+A personal profile concept showcasing development interests, technologies and digital projects.
 
-**Highlights**
+**Design highlights**
 
-- Futuristic visual identity
-- Technology stack showcase
+- Distinct visual identity
+- Technology showcase
 - Project presentation
 - GitHub integration
 
@@ -233,75 +285,64 @@ A personal developer profile concept focused on technology, project showcases an
 </tr>
 </table>
 
-> These descriptions are project concepts. Replace them with repository links, screenshots and verified details when the projects are published.
+> These are example concepts, not claims of completed client projects. Add your actual repository links and screenshots as your work is published.
 
 ---
 
-## `06 / GITHUB ANALYTICS`
+## `06 — GITHUB INSIGHTS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=070913&title_color=00f0ff&icon_color=a855f7&text_color=edf2ff&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar-AI&show_icons=true&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=FF9933&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=070913&title_color=00f0ff&text_color=edf2ff" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSuthar-AI&layout=compact&hide_border=true&bg_color=080B14&title_color=00F5D4&text_color=E6EDF3" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushSuthar-AI&bg_color=070913&color=00f0ff&line=a855f7&point=00f0ff&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushSuthar-AI&bg_color=080B14&color=00F5D4&line=9B5DE5&point=FF9933&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
 ---
 
-## `07 / DEVELOPER PRINCIPLES`
+## `07 — CORE PRINCIPLES`
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-```text
-> Understand before building.
-> Design with a clear purpose.
-> Write maintainable code.
-> Test in a real environment.
-> Fix issues before handover.
-> Keep learning and improving.
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/BUILD-WITH-PURPOSE-070913?style=for-the-badge&labelColor=101526"/>
-<img src="https://img.shields.io/badge/TEST-WITH-CONFIDENCE-070913?style=for-the-badge&labelColor=101526"/>
-<img src="https://img.shields.io/badge/DELIVER-WITH-CARE-070913?style=for-the-badge&labelColor=101526"/>
+| PRINCIPLE | EXECUTION |
+|:--|:--|
+| Purpose | Understand before building |
+| Craft | Write clear, maintainable code |
+| Quality | Test and debug systematically |
+| Trust | Communicate scope honestly |
+| Growth | Keep learning and improving |
 
 </div>
 
 ---
 
-## `08 / CONNECT`
+## `08 — CONNECT`
 
 <div align="center">
 
-Interested in a project or collaboration? Connect through GitHub.
+### Have an idea worth building?
+
+I'm interested in learning, creating useful software and exploring new technology.
+
+<br/>
 
 <a href="https://github.com/PiyushSuthar-AI">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-00f0ff?style=for-the-badge&logo=github&logoColor=070913&labelColor=070913"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-00F5D4?style=for-the-badge&logo=github&logoColor=080B14&labelColor=080B14"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00f0ff,50:a855f7,100:00f0ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF9933,50:00F5D4,100:9B5DE5"/>
 
-<br/>
+**MADE WITH CURIOSITY. BUILT WITH PURPOSE.**
 
-**BUILD BEYOND ORDINARY.**
+<sub>India 🇮🇳 · Web Development · Software · AI & ML</sub>
 
-<sub>Designed with a dark navy · neon cyan · purple visual identity.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:070913,45:101526,75:273047,100:00f0ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:080B14,45:15152B,75:253D4D,100:00F5D4"/>
 
 </div>
